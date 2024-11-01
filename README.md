@@ -89,6 +89,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zabinskimax&theme=calm&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 -->
 
+## 🎮 Hobbies
+
+| ![Hobby 1](https://github.com/zabinskimax/zabinskimax/blob/8dc6ed2adf703bf918c8f1bc706ff9da6350c6fe/Animation%20-%201730481492426.gif?raw=true) | ![Hobby 2](https://github.com/zabinskimax/zabinskimax/blob/8dc6ed2adf703bf918c8f1bc706ff9da6350c6fe/Animation%20-%201730481515883.gif?raw=true) |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Hobby 1 Description:** Brief description of your first hobby. | **Hobby 2 Description:** Brief description of your second hobby. |
+
 ### ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
