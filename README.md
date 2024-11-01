@@ -9,7 +9,7 @@
 📫 **How to reach me:** [maksymaks29@gmail.com](mailto:maksymaks29@gmail.com)  
 😄 **Fun fact:** I hate eating mushrooms
 
-![Animated Separator](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+![Animated Separator]([https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif](https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif))
 
 ## 🌐 Socials
 
