@@ -93,7 +93,7 @@
 
 | ![Hobby 1](https://github.com/zabinskimax/zabinskimax/blob/8dc6ed2adf703bf918c8f1bc706ff9da6350c6fe/Animation%20-%201730481492426.gif?raw=true) | ![Hobby 2](https://github.com/zabinskimax/zabinskimax/blob/8dc6ed2adf703bf918c8f1bc706ff9da6350c6fe/Animation%20-%201730481515883.gif?raw=true) |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Hobby 1 Description:** Brief description of your first hobby. | **Hobby 2 Description:** Brief description of your second hobby. |
+| **TV:** Movies, TV series, anime. | **Basketball:** HMU if you want to play. |
 
 ### ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
