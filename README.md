@@ -34,14 +34,15 @@
   <br>
   
   #### 💻 Programming Languages
-  | | | | | |
-  |:---:|:---:|:---:|:---:|:---:|
-  | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+  | | | | | | |
+  |:---:|:---:|:---:|:---:|:---:|:---:|
+  | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+
 
   #### ☁️ Cloud Platforms
   | | | |
   |:---:|:---:|:---:|
-  | ![AWS](https.img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) |
+  | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) |
 
   #### ⚙️ Frameworks & Libraries
   **Web Development**
@@ -78,23 +79,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<details>
-  <summary>Click to view my stats</summary>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zabinskimax&theme=calm&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zabinskimax&theme=calm&hide_border=true" alt="GitHub Streak Stats"/>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabinskimax&theme=calm&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-  </p>
-
-</details>
-
----
-
 ### 🎮 Hobbies
 
 <p align="center">
@@ -112,7 +96,7 @@
         <br>
         <strong>Basketball</strong>
         <br>
-        <sub>Always down for a game. HMU!</sub>
+        <sub>Passionate player always ready to hit the court.</sub>
       </td>
     </tr>
   </table>
@@ -120,11 +104,13 @@
 
 ---
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</p>
+### 🚀 BacktestingMax
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=zabinskimax&icon=0&color=0" alt="Visitor Count"/>
+  <a href="https://www.backtestingmax.com" target="_blank">
+    <img src="https://img.shields.io/badge/BacktestingMax-Live-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" alt="BacktestingMax"/>
+  </a>
+  <br>
+  <br>
+  <strong>My startup</strong> — A platform for advanced trading strategy backtesting and analysis. One of my proudest achievements.
 </p>
